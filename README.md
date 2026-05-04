@@ -94,11 +94,11 @@ See `requirements.txt` for setup dependencies.
 ---
 
 ### 2. Admin Email / Auth
-- **Admin Email**: fahadgroyne@gmail.com  
-- **Admin Password**: @fahadmohamed  
+- **Admin Email**: ******@gmail.com  
+- **Admin Password**: ********7  
 - _(Add to `.env` for security; don't hard-code to repo)_
 
----
+---#FAHAD MOHAMED
 
 ### 3. Voice, Speech, and Telephony
 
