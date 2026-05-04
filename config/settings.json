@@ -1,0 +1,5 @@
+{
+    "llm": "auto",
+    "max_context_window": 7,
+    "theme": "dark_pro"
+}
